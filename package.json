@@ -1,0 +1,17 @@
+{
+  "name": "count-eth",
+  "version": "1.0.0",
+  "description": "test case for get all ethereum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yonathan Setiadi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "date-fns": "^4.1.0",
+    "ethers": "^6.14.1"
+  },
+  "type": "module"
+}
